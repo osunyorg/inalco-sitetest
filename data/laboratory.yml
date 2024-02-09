@@ -1,8 +1,12 @@
 ---
 name: >
   Labo_test
+address_name: >
+  
 address: >
   65 rue des grands moulins
+address_additional: >
+  
 zipcode: >
   75013
 city: >
