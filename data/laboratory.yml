@@ -13,4 +13,28 @@ city: >-
   Paris
 country: >-
   France
+contact_details:
+  postal_address:
+    data:
+      address: >-
+        65 rue des grands moulins
+      address_additional: >-
+        
+      zipcode: >-
+        75013
+      city: >-
+        Paris
+      country: >-
+        name: >-
+          France
+        alpha2: >-
+          FR
+        alpha3: >-
+          FRA
+      country: >-
+        France
+    text: >-
+      65 rue des grands moulins 75013 Paris FRANCE
+    html: >-
+      <address itemprop="address" itemscope itemtype="https://schema.org/PostalAddress"> <span itemprop="streetAddress">65 rue des grands moulins</span> <span itemprop="postalCode">75013</span> <span itemprop="addressLocality">Paris</span> <span itemprop="addressCountry">FRANCE</span></address>
 ---
